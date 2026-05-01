@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ysmreg.github.io/handbook-d4azhf/sitemap.xml
